@@ -1,6 +1,4 @@
 build/
-docs/html/
-docs/latex/
 hw2
 data_gen
 *.o
